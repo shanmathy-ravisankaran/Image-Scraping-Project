@@ -29,7 +29,6 @@ The motivation behind the "Image Scraper" project is to simplify the process of 
 1. Clone the repository
 
   
-   ```
 2. Install the required libraries
 
    ```bash
